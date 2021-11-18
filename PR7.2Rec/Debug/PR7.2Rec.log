@@ -1,0 +1,4 @@
+﻿  Lab_07_2Rec.cpp
+D:\Student\Volvenko Ivan IT-12\AP\PR7.2Rec\PR7.2Rec\Lab_07_2Rec.cpp(57): warning C4715: SearchMin: значение возвращается не при всех путях выполнения
+D:\Student\Volvenko Ivan IT-12\AP\PR7.2Rec\PR7.2Rec\Lab_07_2Rec.cpp(73): warning C4715: SearchMax: значение возвращается не при всех путях выполнения
+  PR7.2Rec.vcxproj -> D:\Student\Volvenko Ivan IT-12\AP\PR7.2Rec\Debug\PR7.2Rec.exe
